@@ -1,0 +1,10 @@
+{
+    "applications" : {
+        "oasis"          : "http://oasis.local",
+        "home assistant" : "https://home.simonjenny.dev",
+        "library"        : "https://library.simonjenny.dev",
+        "pi hole"        : "http://192.168.192.3/admin",
+        "website"        : "https://simonjenny.dev",
+        "github"         : "https://github.com"
+    }
+}
